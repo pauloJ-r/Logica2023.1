@@ -1,3 +1,4 @@
+
 //exercicios nivel 2 de laços do curso de TSI, usando while
 
 //questão 1 = multiplicar dois numeros sem usar o operador da multiplicação
