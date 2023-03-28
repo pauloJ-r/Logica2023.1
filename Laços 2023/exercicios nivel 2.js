@@ -37,7 +37,17 @@ while(a >= b){
  }
  console.log("resto:",a);
 
- //quertão 4 
+ //quertão 4 = calcular o fatorial de um numero
+
+ var fatorial = 2;
+ var cont = 1
+ var resultado = 1;
+
+ while (cont <= fatorial){
+    resultado *= cont;
+    cont++;
+ }
+console.log(resultado);
 
 
  
