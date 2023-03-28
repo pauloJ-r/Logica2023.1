@@ -37,6 +37,8 @@ while(a >= b){
  }
  console.log("resto:",a);
 
+ //quertão 4 
+
 
  
  
